@@ -1,1 +1,1 @@
-This Project is about Bankok tourist places
+This Project is about Bangkok tourist places
